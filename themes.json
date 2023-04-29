@@ -77,6 +77,17 @@
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48"
           ]
+        },
+        "star trek": {
+          "css": [
+            "https://theme-park.dev/css/addons/unraid/login-page/star trek/green.css?sha=d64bd8fb34a31ddf6c7a031c4f0b1560af2f2b07",
+            "https://theme-park.dev/css/addons/unraid/login-page/star trek/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
+            "https://theme-park.dev/css/addons/unraid/login-page/star trek/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
+            "https://theme-park.dev/css/addons/unraid/login-page/star trek/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+            "https://theme-park.dev/css/addons/unraid/login-page/star trek/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
+            "https://theme-park.dev/css/addons/unraid/login-page/star trek/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
+            "https://theme-park.dev/css/addons/unraid/login-page/star trek/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48"
+          ]
         }
       }
     },
@@ -439,6 +450,17 @@
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48"
+            ]
+          },
+          "star trek": {
+            "css": [
+              "https://theme-park.dev/css/addons/unraid/login-page/star trek/green.css?sha=d64bd8fb34a31ddf6c7a031c4f0b1560af2f2b07",
+              "https://theme-park.dev/css/addons/unraid/login-page/star trek/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
+              "https://theme-park.dev/css/addons/unraid/login-page/star trek/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
+              "https://theme-park.dev/css/addons/unraid/login-page/star trek/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
+              "https://theme-park.dev/css/addons/unraid/login-page/star trek/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
+              "https://theme-park.dev/css/addons/unraid/login-page/star trek/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
+              "https://theme-park.dev/css/addons/unraid/login-page/star trek/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48"
             ]
           }
         }
