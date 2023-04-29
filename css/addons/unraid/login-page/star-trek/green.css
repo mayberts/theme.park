@@ -8,9 +8,6 @@
 :root {
 --main-bg: --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
 url(/theme.park/css/addons/unraid/login-page/star-trek/wallpaper/lcars.jpg) center center/cover no-repeat fixed;
---body-before: none;
---body-after: none;
---body-animation: none;
 --logo: url(/theme.park/css/addons/unraid/login-page/star-trek/logo/defiant.png) center no-repeat;
 --text-color: #0099f6;
 --input-color: #00b844;
