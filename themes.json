@@ -81,7 +81,7 @@
         "star-trek": {
           "css": [
             "https://theme-park.dev/css/addons/unraid/login-page/star-trek/green.css?sha=c6228b6a326f65fe5fb866041da2c66b9b722b83",
-            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/star-trek-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
+            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/star-trek-base.css?sha=da099aa8222ea6771ca8ca9c9b9469ef53d36f45",
             "https://theme-park.dev/css/addons/unraid/login-page/star-trek/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
             "https://theme-park.dev/css/addons/unraid/login-page/star-trek/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
             "https://theme-park.dev/css/addons/unraid/login-page/star-trek/amber.css?sha=2838d49e9c8b93d43954d13e90cc473ec71298d8",
@@ -455,7 +455,7 @@
           "star-trek": {
             "css": [
               "https://theme-park.dev/css/addons/unraid/login-page/star-trek/green.css?sha=c6228b6a326f65fe5fb866041da2c66b9b722b83",
-              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/star-trek-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
+              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/star-trek-base.css?sha=da099aa8222ea6771ca8ca9c9b9469ef53d36f45",
               "https://theme-park.dev/css/addons/unraid/login-page/star-trek/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
               "https://theme-park.dev/css/addons/unraid/login-page/star-trek/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
               "https://theme-park.dev/css/addons/unraid/login-page/star-trek/amber.css?sha=2838d49e9c8b93d43954d13e90cc473ec71298d8",
