@@ -7,7 +7,6 @@
 @import url(/theme.park/css/addons/unraid/login-page/star-trek/star-trek-base.css);
 :root {
 --main-bg: url(/theme.park/css/addons/unraid/login-page/star-trek/wallpaper/lcars.jpg) center center/cover no-repeat fixed;
---main-bg-color: none;
 --body-before: none;
 --body-after: none;
 --body-animation: none;
