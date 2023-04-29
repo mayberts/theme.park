@@ -4,7 +4,7 @@
 /* --body-animation: flicker; This is the background that flickers. SET TO NONE TO REMOVE THE FLICKER ANIMATION! */
 /* --custom-text-header-animation: textflicker; /* SET TO NONE TO REMOVE THE FLICKER ANIMATION! */
 
-@import url(/theme.park/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
+@import url(/theme.park/css/addons/unraid/login-page/star-trek/star-trek-base.css);
 :root {
 --main-bg-color:black;
 --body-before: none;
@@ -13,7 +13,7 @@
 --text-color: #0099f6;
 --input-color: #00b844;
 --link-color: #00b844;
---link-color-hover: #68ffff;
+--link-color-hover: #0099f6;
 --case-color: #00b844;
 --button-text-color: #00b844;
 --button-text-color-hover: #000;
