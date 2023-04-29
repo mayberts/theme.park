@@ -7,9 +7,9 @@
 @import url(/theme.park/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
 :root {
 --main-bg-color:black;
---body-before:#00ff771a;
---body-after: #00ff7733;
---body-animation: flicker;
+--body-before: none;
+--body-after: none;
+--body-animation: none;
 --text-color: #00b844;
 --input-color: #00b844;
 --link-color: #00b844;
