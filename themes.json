@@ -69,7 +69,7 @@
         },
         "retro-terminal": {
           "css": [
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=b6585add3dd823bc62fe19c1223f786ef8241b1b",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=d2de2f1d212764e8899fed2d746e0386658c2110",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
@@ -80,7 +80,7 @@
         },
         "star-trek": {
           "css": [
-            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/green.css?sha=b6585add3dd823bc62fe19c1223f786ef8241b1b",
+            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/green.css?sha=d2de2f1d212764e8899fed2d746e0386658c2110",
             "https://theme-park.dev/css/addons/unraid/login-page/star-trek/retro-terminal-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
             "https://theme-park.dev/css/addons/unraid/login-page/star-trek/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
             "https://theme-park.dev/css/addons/unraid/login-page/star-trek/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
@@ -443,7 +443,7 @@
           },
           "retro-terminal": {
             "css": [
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=b6585add3dd823bc62fe19c1223f786ef8241b1b",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=d2de2f1d212764e8899fed2d746e0386658c2110",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
@@ -454,7 +454,7 @@
           },
           "star-trek": {
             "css": [
-              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/green.css?sha=b6585add3dd823bc62fe19c1223f786ef8241b1b",
+              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/green.css?sha=d2de2f1d212764e8899fed2d746e0386658c2110",
               "https://theme-park.dev/css/addons/unraid/login-page/star-trek/retro-terminal-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
               "https://theme-park.dev/css/addons/unraid/login-page/star-trek/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
               "https://theme-park.dev/css/addons/unraid/login-page/star-trek/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
