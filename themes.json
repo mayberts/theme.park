@@ -53,7 +53,7 @@
             "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation.css?sha=8a65e839eb0c5840a02f0b46615612884a0796ef",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/nightmare.css?sha=a3f1d315bf864a84a5cdf5269f5ef9ef6648ee8c",
             "https://theme-park.dev/css/addons/unraid/login-page/alien/hallway2.css?sha=a1fdba5d1dfa66ca694da89f0e687b46eb2cb64e",
-            "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82"
+            "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3"
           ]
         },
         "fallout": {
@@ -64,29 +64,29 @@
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=3c8f53f270a9fb66b9163277411a8b9a0c614d5e",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=670b921a85dfdfd942199c1988995f2c9a651d9f",
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout_video.css?sha=5875d1bd4d5f93224579ea0f526ce21d9bf98f10",
-            "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82"
+            "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3"
           ]
         },
         "retro-terminal": {
           "css": [
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=d64bd8fb34a31ddf6c7a031c4f0b1560af2f2b07",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48"
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=b6585add3dd823bc62fe19c1223f786ef8241b1b",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=2838d49e9c8b93d43954d13e90cc473ec71298d8",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=e52d9729afd5122d4d89e6233679c97d2678ef34",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=465085e39b2413e25555dbe6f6b039c55a7ed027"
           ]
         },
-        "star trek": {
+        "star-trek": {
           "css": [
-            "https://theme-park.dev/css/addons/unraid/login-page/star trek/green.css?sha=d64bd8fb34a31ddf6c7a031c4f0b1560af2f2b07",
-            "https://theme-park.dev/css/addons/unraid/login-page/star trek/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
-            "https://theme-park.dev/css/addons/unraid/login-page/star trek/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
-            "https://theme-park.dev/css/addons/unraid/login-page/star trek/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
-            "https://theme-park.dev/css/addons/unraid/login-page/star trek/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
-            "https://theme-park.dev/css/addons/unraid/login-page/star trek/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
-            "https://theme-park.dev/css/addons/unraid/login-page/star trek/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48"
+            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/green.css?sha=b6585add3dd823bc62fe19c1223f786ef8241b1b",
+            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/retro-terminal-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
+            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
+            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
+            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/amber.css?sha=2838d49e9c8b93d43954d13e90cc473ec71298d8",
+            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/red.css?sha=e52d9729afd5122d4d89e6233679c97d2678ef34",
+            "https://theme-park.dev/css/addons/unraid/login-page/star-trek/blue.css?sha=465085e39b2413e25555dbe6f6b039c55a7ed027"
           ]
         }
       }
@@ -427,7 +427,7 @@
               "https://theme-park.dev/css/addons/unraid/login-page/alien/isolation.css?sha=8a65e839eb0c5840a02f0b46615612884a0796ef",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/nightmare.css?sha=a3f1d315bf864a84a5cdf5269f5ef9ef6648ee8c",
               "https://theme-park.dev/css/addons/unraid/login-page/alien/hallway2.css?sha=a1fdba5d1dfa66ca694da89f0e687b46eb2cb64e",
-              "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82"
+              "https://theme-park.dev/css/addons/unraid/login-page/alien/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3"
             ]
           },
           "fallout": {
@@ -438,29 +438,29 @@
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=3c8f53f270a9fb66b9163277411a8b9a0c614d5e",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/dirty_terminal2.css?sha=670b921a85dfdfd942199c1988995f2c9a651d9f",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout_video.css?sha=5875d1bd4d5f93224579ea0f526ce21d9bf98f10",
-              "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82"
+              "https://theme-park.dev/css/addons/unraid/login-page/fallout/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3"
             ]
           },
           "retro-terminal": {
             "css": [
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=d64bd8fb34a31ddf6c7a031c4f0b1560af2f2b07",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48"
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=b6585add3dd823bc62fe19c1223f786ef8241b1b",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=2838d49e9c8b93d43954d13e90cc473ec71298d8",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=e52d9729afd5122d4d89e6233679c97d2678ef34",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/blue.css?sha=465085e39b2413e25555dbe6f6b039c55a7ed027"
             ]
           },
-          "star trek": {
+          "star-trek": {
             "css": [
-              "https://theme-park.dev/css/addons/unraid/login-page/star trek/green.css?sha=d64bd8fb34a31ddf6c7a031c4f0b1560af2f2b07",
-              "https://theme-park.dev/css/addons/unraid/login-page/star trek/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
-              "https://theme-park.dev/css/addons/unraid/login-page/star trek/white.css?sha=3bc8cfd778af2f41deb8a7d7b25bbcdad186f2ed",
-              "https://theme-park.dev/css/addons/unraid/login-page/star trek/custom.css?sha=89e360c6b3cbe9a9a31774839e325760c7195f82",
-              "https://theme-park.dev/css/addons/unraid/login-page/star trek/amber.css?sha=7ec771cb909172528b1905e26e4e8faaa0645fda",
-              "https://theme-park.dev/css/addons/unraid/login-page/star trek/red.css?sha=e3964fb51632bc2edf2db563918576852db8d8e3",
-              "https://theme-park.dev/css/addons/unraid/login-page/star trek/blue.css?sha=129b982f0fb99e29d36a7f507bde0f07b57caa48"
+              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/green.css?sha=b6585add3dd823bc62fe19c1223f786ef8241b1b",
+              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/retro-terminal-base.css?sha=40a5668425b41354f551f920da7a1033bcb48ee5",
+              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/white.css?sha=030af0092ebea0609710e90cae460a80eb894fd3",
+              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/custom.css?sha=f24d2f7c506a5c33944f7fd43a6719b30569aae3",
+              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/amber.css?sha=2838d49e9c8b93d43954d13e90cc473ec71298d8",
+              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/red.css?sha=e52d9729afd5122d4d89e6233679c97d2678ef34",
+              "https://theme-park.dev/css/addons/unraid/login-page/star-trek/blue.css?sha=465085e39b2413e25555dbe6f6b039c55a7ed027"
             ]
           }
         }
