@@ -67,6 +67,12 @@
             "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=3a79171bff7252461e4ff5e76b507640bffcf5e1"
           ]
         },
+        "halo": {
+          "css": [
+            "https://theme-park.dev/css/addons/unraid/login-page/halo/halo.css?sha=922369cdec736fa2d44ed70c2acae9e57328646b",
+            "https://theme-park.dev/css/addons/unraid/login-page/halo/halo-base.css?sha=d761942f4e0db84a525abe5b6a2afbdb9ca5c0eb"
+          ]
+        },
         "retro-terminal": {
           "css": [
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=b5dd270ee1e7e3ec89bce02a1e98feb722b850f5",
@@ -439,6 +445,12 @@
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout_video.css?sha=5875d1bd4d5f93224579ea0f526ce21d9bf98f10",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/terminal2.css?sha=3c8f53f270a9fb66b9163277411a8b9a0c614d5e",
               "https://theme-park.dev/css/addons/unraid/login-page/fallout/fallout-base.css?sha=3a79171bff7252461e4ff5e76b507640bffcf5e1"
+            ]
+          },
+          "halo": {
+            "css": [
+              "https://theme-park.dev/css/addons/unraid/login-page/halo/halo.css?sha=922369cdec736fa2d44ed70c2acae9e57328646b",
+              "https://theme-park.dev/css/addons/unraid/login-page/halo/halo-base.css?sha=d761942f4e0db84a525abe5b6a2afbdb9ca5c0eb"
             ]
           },
           "retro-terminal": {
