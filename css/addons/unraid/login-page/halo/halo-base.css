@@ -176,16 +176,26 @@ body {
     display: none;
 }
 
-#login .wordmark {
+#login .wordmark svg {
     display: none;
 }
 
-#login .logo {
+#login .wordmark::after {
+    content: "";
+    display: block;
+    width: 100%;
+    min-height: 120px;
     background: var(--logo);
     background-size: contain;
-    padding: 2rem;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#login .logo {
+    padding: 1rem 2rem;
     border-radius: 0;
     margin: 0rem 1rem 0rem 1rem;
+    min-height: 120px;
 }
 
 #login .error {
