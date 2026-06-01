@@ -69,7 +69,7 @@
         },
         "halo": {
           "css": [
-            "https://theme-park.dev/css/addons/unraid/login-page/halo/halo.css?sha=922369cdec736fa2d44ed70c2acae9e57328646b",
+            "https://theme-park.dev/css/addons/unraid/login-page/halo/halo.css?sha=230fcaca0e105313416722f8cd26ba963d675eaf",
             "https://theme-park.dev/css/addons/unraid/login-page/halo/halo-base.css?sha=d761942f4e0db84a525abe5b6a2afbdb9ca5c0eb"
           ]
         },
@@ -449,7 +449,7 @@
           },
           "halo": {
             "css": [
-              "https://theme-park.dev/css/addons/unraid/login-page/halo/halo.css?sha=922369cdec736fa2d44ed70c2acae9e57328646b",
+              "https://theme-park.dev/css/addons/unraid/login-page/halo/halo.css?sha=230fcaca0e105313416722f8cd26ba963d675eaf",
               "https://theme-park.dev/css/addons/unraid/login-page/halo/halo-base.css?sha=d761942f4e0db84a525abe5b6a2afbdb9ca5c0eb"
             ]
           },
