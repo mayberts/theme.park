@@ -70,7 +70,7 @@
         "halo": {
           "css": [
             "https://theme-park.dev/css/addons/unraid/login-page/halo/halo.css?sha=230fcaca0e105313416722f8cd26ba963d675eaf",
-            "https://theme-park.dev/css/addons/unraid/login-page/halo/halo-base.css?sha=0949621a3d4f1ea66308f201a451ca5d31763293"
+            "https://theme-park.dev/css/addons/unraid/login-page/halo/halo-base.css?sha=5e0da3a292551e11fc4c35c541380b9f89a57ac1"
           ]
         },
         "retro-terminal": {
@@ -450,7 +450,7 @@
           "halo": {
             "css": [
               "https://theme-park.dev/css/addons/unraid/login-page/halo/halo.css?sha=230fcaca0e105313416722f8cd26ba963d675eaf",
-              "https://theme-park.dev/css/addons/unraid/login-page/halo/halo-base.css?sha=0949621a3d4f1ea66308f201a451ca5d31763293"
+              "https://theme-park.dev/css/addons/unraid/login-page/halo/halo-base.css?sha=5e0da3a292551e11fc4c35c541380b9f89a57ac1"
             ]
           },
           "retro-terminal": {
