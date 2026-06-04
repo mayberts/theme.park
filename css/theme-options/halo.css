@@ -1,0 +1,87 @@
+/* ==============================================
+   HALO UNSC CLASSIC - theme.park theme option
+   Inspired by Halo 1-3: UNSC blue + military green
+   For use in css/theme-options/halo.css
+   ============================================== */
+
+:root {
+    --main-bg-color: 10, 18, 16;
+    --main-bg-color-full: rgb(10, 18, 16);
+    --modal-bg-color: 8, 20, 15;
+    --modal-bg-color-full: rgb(8, 20, 15);
+    --sidebar-bg-color: 5, 12, 9;
+    --sidebar-bg-color-full: rgb(5, 12, 9);
+    --header-bg-color: 5, 10, 8;
+    --header-bg-color-full: rgb(5, 10, 8);
+
+    --accent-color: 26, 111, 181;
+    --accent-color-full: rgb(26, 111, 181);
+    --accent-color-hover: 74, 179, 232;
+    --accent-color-hover-full: rgb(74, 179, 232);
+
+    --text-color: 200, 216, 200;
+    --text-color-full: rgb(200, 216, 200);
+    --text-muted: 120, 150, 120;
+    --text-muted-full: rgb(120, 150, 120);
+    --text-secondary: 74, 179, 232;
+    --text-secondary-full: rgb(74, 179, 232);
+
+    --border-color: 26, 111, 181;
+    --border-color-full: rgb(26, 111, 181);
+
+    --link-color: 74, 179, 232;
+    --link-color-full: rgb(74, 179, 232);
+    --link-color-hover: 255, 255, 255;
+    --link-color-hover-full: rgb(255, 255, 255);
+
+    --btn-primary-bg: 26, 111, 181;
+    --btn-primary-bg-full: rgb(26, 111, 181);
+    --btn-primary-border: 74, 179, 232;
+    --btn-primary-border-full: rgb(74, 179, 232);
+    --btn-primary-color: 255, 255, 255;
+    --btn-primary-color-full: rgb(255, 255, 255);
+    --btn-default-bg: 10, 18, 16;
+    --btn-default-bg-full: rgb(10, 18, 16);
+    --btn-default-border: 26, 111, 181;
+    --btn-default-border-full: rgb(26, 111, 181);
+    --btn-default-color: 200, 216, 200;
+    --btn-default-color-full: rgb(200, 216, 200);
+
+    --input-bg: 5, 12, 9;
+    --input-bg-full: rgb(5, 12, 9);
+    --input-border: 26, 111, 181;
+    --input-border-full: rgb(26, 111, 181);
+    --input-color: 200, 216, 200;
+    --input-color-full: rgb(200, 216, 200);
+    --input-focus-border: 74, 179, 232;
+    --input-focus-border-full: rgb(74, 179, 232);
+
+    --scrollbar-thumb: 26, 111, 181;
+    --scrollbar-thumb-full: rgb(26, 111, 181);
+    --scrollbar-track: 5, 10, 8;
+    --scrollbar-track-full: rgb(5, 10, 8);
+
+    --progress-bar-color: 26, 111, 181;
+    --progress-bar-color-full: rgb(26, 111, 181);
+    --progress-bar-complete-color: 74, 179, 232;
+    --progress-bar-complete-color-full: rgb(74, 179, 232);
+    --progress-bar-remaining-color: 58, 122, 58;
+    --progress-bar-remaining-color-full: rgb(58, 122, 58);
+
+    --arr-queue-color: 26, 111, 181;
+    --arr-queue-color-full: rgb(26, 111, 181);
+
+    --table-header-bg: 5, 12, 9;
+    --table-header-bg-full: rgb(5, 12, 9);
+    --table-row-bg: 8, 16, 12;
+    --table-row-bg-full: rgb(8, 16, 12);
+    --table-row-hover: 15, 30, 22;
+    --table-row-hover-full: rgb(15, 30, 22);
+
+    --success-color: 58, 122, 58;
+    --success-color-full: rgb(58, 122, 58);
+    --warning-color: 181, 140, 26;
+    --warning-color-full: rgb(181, 140, 26);
+    --danger-color: 181, 50, 50;
+    --danger-color-full: rgb(181, 50, 50);
+}
