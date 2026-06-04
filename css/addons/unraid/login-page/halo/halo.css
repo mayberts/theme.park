@@ -39,12 +39,7 @@
     --button-color2-hover: rgba(26,111,181,0.08);
     --button-text-color-hover: #4ab3e8;
     --box-shadow: 0 0 18px;
-}
 
-#login .logo {
-    background: var(--logo);
-    background-size: contain;
-    padding: 2rem;
-    border-radius: 0;
-    margin: 0rem 1rem 0rem 1rem;
+    /* Logo */
+    --logo: url(/theme.park/css/addons/unraid/login-page/halo/logo/halo-unsc-infinity.png) center no-repeat;
 }
